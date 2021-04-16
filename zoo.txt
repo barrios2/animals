@@ -1,3 +1,5 @@
 Koala 
 Tiger 
 Horse
+Lion 
+Butterflies

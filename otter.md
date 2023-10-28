@@ -1,4 +1,4 @@
-Otter
+# Otter
 
 ![otters in water](https://environmentamerica.org/wp-content/uploads/2023/02/EAC_Otters_savethem-e1695676447396.jpg)
 

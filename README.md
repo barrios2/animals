@@ -1,4 +1,4 @@
-# animals
+# Animals
 
 Here's a list of my favorite animals :smiley:
 

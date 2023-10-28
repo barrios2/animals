@@ -1,4 +1,4 @@
-Squirrel
+# Squirrel
 
 ![cute squirrel smelling flower](https://i.insider.com/5dcdd0bc79d7571f6554f5a6?width=926&format=jpeg)
 
